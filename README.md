@@ -1,1 +1,0 @@
-official code-base for medical-kit web application
